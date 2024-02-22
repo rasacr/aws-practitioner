@@ -7,7 +7,7 @@
 ¿Qué es un modelo cliente-servidor?
 
 Acaba de aprender más sobre AWS y cómo casi toda la informática moderna utiliza un modelo cliente-servidor básico. Recordemos qué es un modelo cliente-servidor.
-![dc9cd266ae192da0d9aad112a8b7d32a.png](../../_resources/dc9cd266ae192da0d9aad112a8b7d32a.png)
+![dc9cd266ae192da0d9aad112a8b7d32a.png](resources/dc9cd266ae192da0d9aad112a8b7d32a.png)
 El cliente está la izquierda, el servidor está a la derecha. Las flechas señalan desde el cliente al servidor y desde el servidor al cliente para indicar una transacción.
 
 En cómputo, un cliente puede ser un navegador web o una aplicación de escritorio con la que interactúa una persona para realizar solicitudes a los servidores de cómputo. Un servidor puede ser un servicio, como Amazon Elastic Compute Cloud (Amazon EC2), un tipo de servidor virtual.

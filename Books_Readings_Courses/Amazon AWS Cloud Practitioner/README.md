@@ -1,1 +1,0 @@
-El siguiente repositorio contiene mis notas para el examen de certificacion v2 de aws practitioner

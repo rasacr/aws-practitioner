@@ -48,10 +48,10 @@ Imagine que está considerando ejecutar aplicaciones tanto en Estados Unidos com
 Para clientes que no estan necesariamente cercanos a las regiones
 Una ubicación perimetral es un sitio que Amazon CloudFront utiliza para almacenar copias almacenadas en caché del contenido más cerca de los clientes para una entrega más rápida.
 Seleccione cada marcador enumerado para más información.
-![3ea511e08121565975777973756fe18f.png](../../_resources/3ea511e08121565975777973756fe18f.png)
+![3ea511e08121565975777973756fe18f.png](/images/3ea511e08121565975777973756fe18f.png)
 
-![6d4594ef75233dd0fbe2b71052b3a0c3.png](../../_resources/6d4594ef75233dd0fbe2b71052b3a0c3.png)
-![beaab0949fdce15d824f02c49e87ab51.png](../../_resources/beaab0949fdce15d824f02c49e87ab51.png)
+![6d4594ef75233dd0fbe2b71052b3a0c3.png](/images/6d4594ef75233dd0fbe2b71052b3a0c3.png)
+![beaab0949fdce15d824f02c49e87ab51.png](/images/beaab0949fdce15d824f02c49e87ab51.png)
 
 
 ## Cómo aprovisionar recursos de AWS
@@ -59,11 +59,11 @@ Seleccione cada marcador enumerado para más información.
 - List itemConsola de navegador de AWS
 - AWS Command  Interface CLI (basado en scripts)
 - SDK de AWS (Kits de desarrollo).
-![394d8c91b4d43b285c18911f61d9fae5.png](../../_resources/394d8c91b4d43b285c18911f61d9fae5.png)
+![394d8c91b4d43b285c18911f61d9fae5.png](/images/394d8c91b4d43b285c18911f61d9fae5.png)
 
 
-![0d991cec7b8ea7911122ffa87b28a745.png](../../_resources/0d991cec7b8ea7911122ffa87b28a745.png)
-![11085c6189b6380298526b5ea6eb6915.png](../../_resources/11085c6189b6380298526b5ea6eb6915.png)
+![0d991cec7b8ea7911122ffa87b28a745.png](/images/0d991cec7b8ea7911122ffa87b28a745.png)
+![11085c6189b6380298526b5ea6eb6915.png](/images/11085c6189b6380298526b5ea6eb6915.png)
 
 Herramientas Administradas para aprovisionamiento
 ## AWS Elastic Beanstalk

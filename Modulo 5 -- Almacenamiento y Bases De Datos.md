@@ -32,18 +32,18 @@ EBS soporta realizar respaldo progresivos (instantaneas o snapshots)
 Los volúmenes de almacenamiento a nivel de bloque se comportan como discos duros físicos.
 Un [almacén de instancias](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html) proporciona almacenamiento temporal a nivel de bloques para una instancia de Amazon EC2. Un almacén de instancias es un almacenamiento en disco que está conectado físicamente a la computadora host para una instancia de EC2 y, por lo tanto, tiene la misma vida útil que la instancia. Cuando la instancia está terminada, pierde todos los datos que se encuentran en el almacén de instancias.
 Para analizar un ejemplo de cómo funcionan los almacenes de instancias, seleccione los botones de flechas para mostrar cada paso.
-![409caf28cd4c0bef665da5af9e73c09b.png](../../_resources/409caf28cd4c0bef665da5af9e73c09b.png)
+![409caf28cd4c0bef665da5af9e73c09b.png](/images/409caf28cd4c0bef665da5af9e73c09b.png)
 
 
-![10360408c2c57470a55868045b2cb1c5.png](../../_resources/10360408c2c57470a55868045b2cb1c5.png)
+![10360408c2c57470a55868045b2cb1c5.png](/images/10360408c2c57470a55868045b2cb1c5.png)
 
 
-![4d9f4cc767d678ccc83442c334224d6e.png](../../_resources/4d9f4cc767d678ccc83442c334224d6e.png)
+![4d9f4cc767d678ccc83442c334224d6e.png](/images/4d9f4cc767d678ccc83442c334224d6e.png)
 
 
-![fd067caa568c74e28e074d433c002768.png](../../_resources/fd067caa568c74e28e074d433c002768.png)
+![fd067caa568c74e28e074d433c002768.png](/images/fd067caa568c74e28e074d433c002768.png)
 
-![0a4a65062660dc0e752657ad0afd7002.png](../../_resources/0a4a65062660dc0e752657ad0afd7002.png)
+![0a4a65062660dc0e752657ad0afd7002.png](/images/0a4a65062660dc0e752657ad0afd7002.png)
 
 [Amazon Elastic Block Store (Amazon EBS)](https://aws.amazon.com/ebs)  es un servicio que proporciona volúmenes de almacenamiento a nivel de bloques y que puede utilizarse con instancias de Amazon EC2. Si detiene o termina una instancia de Amazon EC2, todos los datos del volumen de EBS adjunto siguen estando disponibles.
 Para crear un volumen de EBS, debe definir la configuración (como el tamaño y el tipo de volumen) y aprovisionarlo. Después de crear un volumen de EBS, se puede adjuntar a una instancia de Amazon EC2.
@@ -51,7 +51,7 @@ Dado que los volúmenes de EBS son para datos que deben persistir, es importante
 
 
 ## Instantáneas de Amazon EBS
-![2503b2a3c1b5c54b723679c6cf171fd7.png](../../_resources/2503b2a3c1b5c54b723679c6cf171fd7.png)
+![2503b2a3c1b5c54b723679c6cf171fd7.png](/images/2503b2a3c1b5c54b723679c6cf171fd7.png)
 Una [instantánea de EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html) es una copia de seguridad progresiva. Esto significa que la primera copia de seguridad realizada de un volumen copia todos los datos. Para las copias de seguridad posteriores, solo se guardan los bloques de datos que han cambiado desde la última instantánea. 
 Las copias de respaldo progresivas son diferentes de las copias de respaldo completas, en las que se copian todos los datos de un volumen de almacenamiento cada vez que se realiza una copia de respaldo. La copia de seguridad completa incluye datos que no han cambiado desde la copia de seguridad más reciente.
 
@@ -83,11 +83,11 @@ Politicas de ciclos de vida, mueve objetos entre los diferentes niveles de almac
 ## S3 Deep Archive
 
 ## Almacenamiento de objetos
-![407da0047af26f0e6201564a6d5a4223.png](../../_resources/407da0047af26f0e6201564a6d5a4223.png)
+![407da0047af26f0e6201564a6d5a4223.png](/images/407da0047af26f0e6201564a6d5a4223.png)
 En el almacenamiento de objetos, cada objeto consta de datos, metadatos y una clave.
 Los datos pueden ser una imagen, un video, un documento de texto o cualquier otro tipo de archivo. Los metadatos contienen información sobre qué son los datos, cómo se usan, el tamaño del objeto, etc. La clave de un objeto es su identificador único.
 
-![0bda3f2bae60a81aa6cf7891a515ce8a.png](../../_resources/0bda3f2bae60a81aa6cf7891a515ce8a.png)
+![0bda3f2bae60a81aa6cf7891a515ce8a.png](/images/0bda3f2bae60a81aa6cf7891a515ce8a.png)
 
 ## Amazon Simple Storage Service (Amazon S3)
 [Amazon Simple Storage Service (Amazon S3)](https://aws.amazon.com/s3/) es un servicio que proporciona almacenamiento a nivel de objeto. Amazon S3 almacena los datos como objetos en buckets.
@@ -98,10 +98,10 @@ Con Amazon S3, solo paga por lo que utiliza. Puede elegir entre [varias clases d
 - Con qué frecuencia piensa recuperar sus datos
 - Qué tanta disponibilidad deben tener los datos
 Para obtener más información sobre las clases de almacenamiento de Amazon S3, expanda cada una de las siguientes ocho categorías.
-![a2eeefd89ced2fdc9e3347584df8e92f.png](../../_resources/a2eeefd89ced2fdc9e3347584df8e92f.png)
-![22fe028edf6a9c071f44a65dc6a681a0.png](../../_resources/22fe028edf6a9c071f44a65dc6a681a0.png)
-![d4d940b9610059b5e75d89cb9130390d.png](../../_resources/d4d940b9610059b5e75d89cb9130390d.png)
-![c777943a2ae8caf0ec3ce9fc62740fa2.png](../../_resources/c777943a2ae8caf0ec3ce9fc62740fa2.png)
+![a2eeefd89ced2fdc9e3347584df8e92f.png](/images/a2eeefd89ced2fdc9e3347584df8e92f.png)
+![22fe028edf6a9c071f44a65dc6a681a0.png](/images/22fe028edf6a9c071f44a65dc6a681a0.png)
+![d4d940b9610059b5e75d89cb9130390d.png](/images/d4d940b9610059b5e75d89cb9130390d.png)
+![c777943a2ae8caf0ec3ce9fc62740fa2.png](/images/c777943a2ae8caf0ec3ce9fc62740fa2.png)
 
 # Amazon Elastic File System (Amazon EFS)
 

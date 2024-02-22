@@ -42,9 +42,9 @@ Los tres modelos de implementación de cómputo en la nube están basados en la 
 Para obtener más información sobre los modelos de implementación, seleccione cada una de las siguientes tres pestañas.
  
  
-![0f90f3e44560f263039b6bf4398671e9.png](../../_resources/0f90f3e44560f263039b6bf4398671e9.png)
-![9c7983f8879de8877c42416a80ec1b14.png](../../_resources/9c7983f8879de8877c42416a80ec1b14.png)
-![11217184793aab4a90ae199f020245eb.png](../../_resources/11217184793aab4a90ae199f020245eb.png)
+![0f90f3e44560f263039b6bf4398671e9.png](/images/0f90f3e44560f263039b6bf4398671e9.png)
+![9c7983f8879de8877c42416a80ec1b14.png](/images/9c7983f8879de8877c42416a80ec1b14.png)
+![11217184793aab4a90ae199f020245eb.png](/images/11217184793aab4a90ae199f020245eb.png)
 ## Beneficios del cómputo en la nube
 Considere por qué una empresa podría optar por un enfoque específico de cómputo en la nube al momento de abordar las necesidades empresariales.
 Para obtener más información sobre los beneficios, despliegue cada una para las siguientes seis categorías.
